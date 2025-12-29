@@ -33,8 +33,10 @@ This project is built to understand real-world trading dashboards, order executi
 ---
 
 ## 📁 Project Structure
+```
 zerodha/
 │── frontend/ # React frontend
 │── backend/ # Node.js backend
 │── .gitignore
 │── README.md
+```
